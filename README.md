@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unkn0wn-cs
 
-I'm competing in the WRO and working to help bring the world together on a better internet
+I'm competing in the WRO and working to help bring the world together in the development of ambitious projects
 
 
 <!---
